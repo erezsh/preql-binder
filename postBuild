@@ -1,0 +1,4 @@
+set -e
+
+preql --install-jupyter
+
