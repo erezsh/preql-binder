@@ -1,5 +1,3 @@
-#!/bin/bash
-set -e
-
-preql --install-jupyter
+# preql --install-jupyter
+echo "Hello"
 
