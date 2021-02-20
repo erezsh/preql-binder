@@ -1,0 +1,2 @@
+# preql --install-jupyter
+python -c "from preql.jup_kernel.install import main; main()"
