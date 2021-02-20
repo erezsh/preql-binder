@@ -1,1 +1,1 @@
-preql
+preql-lang
