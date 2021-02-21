@@ -1,4 +1,2 @@
 # preql --install-jupyter
 python -c "from preql.jup_kernel.install import main; main()"
-
-wget https://cdn.sqlitetutorial.net/wp-content/uploads/2018/03/chinook.zip && unzip chinook.zip
